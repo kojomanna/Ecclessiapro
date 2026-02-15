@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EcclesiaPro",
+  "description": "A sophisticated multi-tenant Church Management System (ChMS) featuring financial tracking, member management, ministry coordination, and AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
